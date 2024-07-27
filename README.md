@@ -1,2 +1,5 @@
-# ETL_DWH_WITH_SSIS
-A data warehouse implementation and ETL pipeline with SSIS and analysis with PowerBI
+# Implementing Data warehouse with SQL Server Integration Tools
+1. Brief about SSIS
+2. Architecture of the project
+3. Implementation
+4. Validation and Analysis with PowerBI
