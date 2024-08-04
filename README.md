@@ -1,6 +1,6 @@
 # Data Warehousing: ETL Pipeline with SSIS, SQL Server, SSAS, and Power BI
 
-![DWH Architecture](assets/DWH Architecture.png)
+![DWH Architecture](./assets/DWHArchitecture.png)
 
 ## 📝 Overview
 
